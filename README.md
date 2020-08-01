@@ -1,17 +1,17 @@
 
-Simple User Management.
-This project create using repository, Mail, Yajra Datatabel. 
+1. Simple User Management.
+2. This project create using repository, Mail, Yajra Datatabel. 
 
-Run Seeder
-php artisan db:seed --class=UsersTableDataSeeder
+3. Run Seeder
+4. php artisan db:seed --class=UsersTableDataSeeder
 
 
-admin cradential
-Id :- admin@gmail.com
-Password :- admin123
+    admin cradential
+    Id :- admin@gmail.com
+    Password :- admin123
 
-Forget Mail Functionality Added.
+5. Forget Mail Functionality Added.
 
-if User can Forget Password than get mail with 4 digit OTP.
+6. if User can Forget Password than get mail with 4 digit OTP.
 
-Also Added Admin Panel.
+7. Also Added Admin Panel.
