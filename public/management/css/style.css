@@ -1,0 +1,91 @@
+.note {
+    text-align: center;
+    height: 80px;
+    background: -webkit-linear-gradient(left, #0072ff, #8811c5);
+    color: #fff;
+    font-weight: bold;
+    line-height: 80px;
+}
+
+.form-content {
+    padding: 5%;
+    border: 1px solid #ced4da;
+    margin-bottom: 2%;
+}
+
+.form-control {
+    border-radius: 1.5rem;
+}
+
+.btnSubmit {
+    border: none;
+    text-align: center;
+    border-radius: 1.5rem;
+    padding: 1%;
+    width: 20%;
+    cursor: pointer;
+    background: #0062cc;
+    color: white;
+    margin: 0px 0px 0px 200px;
+}
+
+.header1 {
+    height: 34px;
+    width: 100%;
+    background-color: #efeeee;
+    /*color:white;*/
+    font-weight: bolder;
+    font-size: 15px;
+    text-align: right;
+}
+
+.header1 a:hover {
+    color: none;
+}
+
+.row a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+td a:hover {
+    color: none;
+}
+
+.edit a:hover {
+    color: none;
+}
+.sorting, .sorting_asc, .sorting_desc {
+    background : none !important;
+}
+.forgetpsd a:hover {
+    color: none !important;
+}
+.allbutton {
+    border: none;
+    text-align: center;
+    border-radius: 1.5rem;
+    padding: 1%;
+    width: 20%;
+    cursor: pointer;
+    background: #0062cc;
+    color: white;
+    margin: 0px 0px 0px 120px;
+}
+.otp{
+    border: none;
+    text-align: center;
+    border-radius: 1.5rem;
+    width: 9%;
+    height: 36px;
+    cursor: pointer;
+    background: #0062cc;
+    color: white;
+    margin: 0px 0px 0px 185px;
+}
+#fogetpsd {
+    text-decoration: none;
+}
